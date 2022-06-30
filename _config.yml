@@ -1,7 +1,7 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "Lh-lab"
+title: "Lh-lab"
+description: "Cloud, Virtualization, Modern Apps, Code and much more."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /mediumish-theme-jekyll
@@ -14,13 +14,13 @@ permalink: /:title/
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: 'Limberth Huertas'
+    display_name: Limb
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    email: l.huertas12@gmail.com
+    web: https://lh-lab.github.io
+    LinkedIn: https://www.linkedin.com/in/limberth-huertas/
+    description: "Technical Account Manager for LATAM at VMware, always enjoys learning new technologies and keeping sharp his technical skills all the time."
   john:
     name: John
     display_name: John    
