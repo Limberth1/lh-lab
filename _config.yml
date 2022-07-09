@@ -13,9 +13,9 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
+  limberth:
     name: 'Limberth Huertas'
-    display_name: Limb
+    display_name: Limberth
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: l.huertas12@gmail.com
     web: https://lh-lab.github.io
